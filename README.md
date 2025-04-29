@@ -1,5 +1,6 @@
 # odin-recipes
-How to commit properly
+Odin Recipe Project
 
-Bueno la verdad no tengo ni idea que estoy haciendo hasta este punto.
-solo estoy escribiendo lineas a ver que pasa.
+This is a very basic example about how to create a web-site from scratch, using only HTML.
+
+Hit the heart button if you like my recipe web-site :)
